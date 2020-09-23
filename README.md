@@ -2,6 +2,8 @@
 
 This project is a Photo Gallery wep app build with React and firebase with animation using Framer-motion
 
+[Demo](https://my-gallery20.herokuapp.com/)
+
 To clone this repository, you can run: 
 ### `git clone https://github.com/Gaelsk/Gallery.git`
 
